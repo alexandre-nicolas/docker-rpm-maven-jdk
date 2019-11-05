@@ -1,0 +1,1 @@
+# docker-rpm-maven-jdk
